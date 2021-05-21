@@ -1,1 +1,1 @@
-echo # azure_tf_aks
+# Playground for Terraform / AKS / Azure / GitHub actions
