@@ -1,6 +1,6 @@
 terraform {
   backend "azurerm" {
-    resource_group_name  = "tstate"
+    resource_group_name  = "tfstate"
     storage_account_name = "mkstorage1621600706"
     container_name       = "tfstatedevops"
     key                  = "tfstatedevops.tfstate"
